@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-20T19:59:47.459Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="GT0ISkQHlFnQeQpnPApN" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-20T20:17:41.808Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="g4bATihy_p9tiQlPAogx" version="14.2.4" type="github">
   <diagram id="4QZvZbZm6D8ZqkDao2iP" name="Page-1">
     <mxGraphModel dx="2062" dy="2254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -199,9 +199,6 @@
         <mxCell id="j2AovLINqO8kEov4aPcL-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.418;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="j2AovLINqO8kEov4aPcL-99" target="j2AovLINqO8kEov4aPcL-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j2AovLINqO8kEov4aPcL-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.016;entryY=0.447;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="j2AovLINqO8kEov4aPcL-106" target="j2AovLINqO8kEov4aPcL-38" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="j2AovLINqO8kEov4aPcL-156" value="Key Vault" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="417.89" y="-15" width="75" height="20" as="geometry" />
         </mxCell>
@@ -242,7 +239,7 @@
           <mxGeometry x="16.5" width="67" height="40" as="geometry" />
         </mxCell>
         <mxCell id="j2AovLINqO8kEov4aPcL-133" value="Virtual Network" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="j2AovLINqO8kEov4aPcL-167" vertex="1">
-          <mxGeometry y="40" width="100" height="20" as="geometry" />
+          <mxGeometry x="2" y="40" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="j2AovLINqO8kEov4aPcL-170" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontSize=11;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -251,7 +248,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j2AovLINqO8kEov4aPcL-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2000" y="500" width="390" height="140" as="geometry" />
+          <mxGeometry x="2000" y="500" width="420" height="140" as="geometry" />
         </mxCell>
         <mxCell id="j2AovLINqO8kEov4aPcL-14" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2013" y="544" width="70" height="72" as="geometry" />
@@ -287,7 +284,7 @@
           <mxGeometry x="2013" y="510" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="j2AovLINqO8kEov4aPcL-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2000" y="700" width="390" height="140" as="geometry" />
+          <mxGeometry x="2000" y="700" width="430" height="140" as="geometry" />
         </mxCell>
         <mxCell id="j2AovLINqO8kEov4aPcL-26" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2013" y="744" width="70" height="72" as="geometry" />
@@ -323,7 +320,7 @@
           <mxGeometry x="2013" y="710" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="j2AovLINqO8kEov4aPcL-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2004" y="953" width="380" height="140" as="geometry" />
+          <mxGeometry x="2004" y="953" width="426" height="140" as="geometry" />
         </mxCell>
         <mxCell id="j2AovLINqO8kEov4aPcL-39" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2013" y="997" width="70" height="72" as="geometry" />
@@ -441,6 +438,27 @@
         </mxCell>
         <mxCell id="VV1KKHjdSfqsXgaiZ8ky-107" value="Worker Roles" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VV1KKHjdSfqsXgaiZ8ky-105">
           <mxGeometry y="45" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VV1KKHjdSfqsXgaiZ8ky-139" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;dashed=1;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="2332.5" y="510" width="67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VV1KKHjdSfqsXgaiZ8ky-140" value="Virtual Network" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2318" y="550" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VV1KKHjdSfqsXgaiZ8ky-141" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;dashed=1;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="2339.5" y="710" width="67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VV1KKHjdSfqsXgaiZ8ky-142" value="Virtual Network" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2330" y="750" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VV1KKHjdSfqsXgaiZ8ky-143" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;dashed=1;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="2339.5" y="958" width="67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VV1KKHjdSfqsXgaiZ8ky-144" value="Virtual Network" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2330" y="998" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VV1KKHjdSfqsXgaiZ8ky-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="j2AovLINqO8kEov4aPcL-106" target="j2AovLINqO8kEov4aPcL-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
